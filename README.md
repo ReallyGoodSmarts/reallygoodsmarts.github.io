@@ -1,3 +1,3 @@
 # Really Good Smarts LLC
 
-PLAYING, PROTOTYPING AND KEEPING IT SIMPLE.
+Playing, prototyping and keeping it simple.
