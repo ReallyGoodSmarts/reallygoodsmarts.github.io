@@ -1,2 +1,3 @@
-# reallygoodsmarts.github.io
-Serving up the pages
+# Really Good Smarts LLC
+
+PLAYING, PROTOTYPING AND KEEPING IT SIMPLE.
